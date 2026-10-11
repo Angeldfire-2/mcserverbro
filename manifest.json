@@ -2,9 +2,144 @@
   "clean_extra": false,
   "mods": [
     {
+      "file": "aquamirae-fabric-1.21.1-7.2.10.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/aquamirae-fabric-1.21.1-7.2.10.jar",
+      "sha256": "ba31313b1658ccabfa7a8a23cca06c8849f205d98fedd6364fa2b6f63996a308"
+    },
+    {
+      "file": "balm-fabric-1.21.1-21.0.63.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/balm-fabric-1.21.1-21.0.63.jar",
+      "sha256": "4c3604961b74e9cbc91efb1a93daa2f4e55354a46afc93cb74f0de543fd86391"
+    },
+    {
+      "file": "BetterF3-11.0.3-Fabric-1.21.1.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/BetterF3-11.0.3-Fabric-1.21.1.jar",
+      "sha256": "e0e4bb25fbe23b16b7574474ee9fde5cdc9757d05885bc43978f4ea5e8e258ad"
+    },
+    {
+      "file": "biggerstacks-1.7.1+1.21.1.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/biggerstacks-1.7.1+1.21.1.jar",
+      "sha256": "05a40b60262f25253278294dc693075cbcb25a650cc8b7bba1cedf6177abb202"
+    },
+    {
+      "file": "cloth-config-15.0.140-fabric.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/cloth-config-15.0.140-fabric.jar",
+      "sha256": "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f"
+    },
+    {
+      "file": "dynamiclights-v1.9.3-mc1.17-26.2.9-mod.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/dynamiclights-v1.9.3-mc1.17-26.2.9-mod.jar",
+      "sha256": "055b07436bc0c4f175345657e09e5375a529520aa1f9d06af557b413d7815fc6"
+    },
+    {
+      "file": "ExtendedHotbar-3.1.0.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/ExtendedHotbar-3.1.0.jar",
+      "sha256": "fac17a38be4ac6a735afd05121c552d479d4ab3c4c79ba9a5054b54353aa6093"
+    },
+    {
+      "file": "fabric-api-0.116.17+1.21.1.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/fabric-api-0.116.17+1.21.1.jar",
+      "sha256": "79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800"
+    },
+    {
+      "file": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+      "sha256": "620c2709be2a262b837cf976f6f85f6eda80a56af2ba4242e0bdc83a60fee7a5"
+    },
+    {
+      "file": "fragmentum-5.1.1+1.21.1-fabric.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/fragmentum-5.1.1+1.21.1-fabric.jar",
+      "sha256": "99c94a7dd366e0f9f8e68f8bc6c16731165a092310195a397ad3ca6d1c0d9515"
+    },
+    {
+      "file": "framework-fabric-1.21.1-0.13.11.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/framework-fabric-1.21.1-0.13.11.jar",
+      "sha256": "5d15360a4fffa8699562c700b5b0e97f0fd0b63006f0c1dbe2fec2b60022117d"
+    },
+    {
+      "file": "fzzy_config-0.7.7+1.21.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/fzzy_config-0.7.7+1.21.jar",
+      "sha256": "8183d6bf61e2b222bd628e0d3f6a01da50839244054e27ba4532e1768d709b8f"
+    },
+    {
+      "file": "geckolib-fabric-1.21.1-4.9.3.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/geckolib-fabric-1.21.1-4.9.3.jar",
+      "sha256": "70186c70660e8de6c58f5b28625f71ae9e80eb0ad81b5d47b62fd5809bef2ee0"
+    },
+    {
+      "file": "immersive_paintings-fabric-1.21.1-0.7.9.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/immersive_paintings-fabric-1.21.1-0.7.9.jar",
+      "sha256": "234d06ba52d3bbb9195df6e4e77992676d8e7032897c84f53306897696901407"
+    },
+    {
+      "file": "iris-fabric-1.8.8+mc1.21.1.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/iris-fabric-1.8.8+mc1.21.1.jar",
+      "sha256": "b5ad39a6cb113ca0a1765f06689f9f4b29ccd0c81247de90b06c42f5da1092f5"
+    },
+    {
+      "file": "modmenu-11.0.5.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/modmenu-11.0.5.jar",
+      "sha256": "afa55fe4e7c48560126dbe654fa9647f141bc6ffd3ce35525b65dd65d88251b5"
+    },
+    {
+      "file": "obscure_tooltips-fabric-1.21.1-4.2.5.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/obscure_tooltips-fabric-1.21.1-4.2.5.jar",
+      "sha256": "48670c1507e100744cc22b7b02eaac154de5288dbed21375b3d2ff2635ee45f9"
+    },
+    {
+      "file": "Pehkui-3.8.3+1.14.4-1.21.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/Pehkui-3.8.3+1.14.4-1.21.jar",
+      "sha256": "3129e6fd47062007c815eebd1bd6739a8ecceacf5de2f74b22cce0b75fada75b"
+    },
+    {
+      "file": "player-animation-lib-fabric-2.0.4+1.21.1.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/player-animation-lib-fabric-2.0.4+1.21.1.jar",
+      "sha256": "86ef8a23a5bc8f86d67ed37f3a93380d3946bad64123b22862ed057e7b624efd"
+    },
+    {
+      "file": "refurbished_furniture-fabric-1.21.1-1.0.22.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/refurbished_furniture-fabric-1.21.1-1.0.22.jar",
+      "sha256": "ccf5a4b585c41b9e629aedceb269e01b7488708f5440351e4a6862903dfe8ef4"
+    },
+    {
+      "file": "sharedhealth-1.2.3.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/sharedhealth-1.2.3.jar",
+      "sha256": "09f9f33f8f8b1851536a6b83f6cc3a62eb2cb53a94647c78d26f4c1c9bbf4e5c"
+    },
+    {
+      "file": "sittingplus-2.0.6-1.21.1-FABRIC.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/sittingplus-2.0.6-1.21.1-FABRIC.jar",
+      "sha256": "3ca0f06029d84a1d1b8cd984575c42d332a5b81ad7633554865e8f58508744dd"
+    },
+    {
       "file": "sodium-fabric-0.6.13+mc1.21.1.jar",
       "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/sodium-fabric-0.6.13+mc1.21.1.jar",
       "sha256": "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353"
+    },
+    {
+      "file": "trashslot-fabric-1.21.1-21.1.11.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/trashslot-fabric-1.21.1-21.1.11.jar",
+      "sha256": "28b1ed22a2968e9d1b2760ef8dfeb2a95ab89036d13968182f4d8c326e3763fd"
+    },
+    {
+      "file": "veinminer-fabric-2.11.2+1.21.1.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/veinminer-fabric-2.11.2+1.21.1.jar",
+      "sha256": "2cf818ecbd965df4715060e38d9257c9643d4dab30dd8493e173820e521cb104"
+    },
+    {
+      "file": "xaerominimap-fabric-1.21.1-26.5.0.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/xaerominimap-fabric-1.21.1-26.5.0.jar",
+      "sha256": "2109c24a5044a6bbce5c456292ce34de830ab35602f1940a700b9abc74537482"
+    },
+    {
+      "file": "xaeroworldmap-fabric-1.21.1-1.46.0.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/xaeroworldmap-fabric-1.21.1-1.46.0.jar",
+      "sha256": "0f87dd9fbe60e56f17f0b49b73717c1f73ec7aa7b3faf7a99ae34e74c5fe4985"
+    },
+    {
+      "file": "yarrp-mc1.21.1-fabric-v0.2.0.jar",
+      "url": "https://github.com/Angeldfire-2/mcserverbro/releases/download/mods/yarrp-mc1.21.1-fabric-v0.2.0.jar",
+      "sha256": "9cf03063ea6e9bb613675e6b5d5dc4f813491943777be0124282b0b9b8361334"
     }
   ]
 }
