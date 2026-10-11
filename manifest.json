@@ -1,0 +1,10 @@
+{
+  "clean_extra": false,
+  "mods": [
+    {
+      "file": "sodium-fabric-0.6.13+mc1.21.1.jar",
+      "url": "https://github.com/USUARIO/REPO/releases/download/mods/mod-de-curseforge.jar",
+      "sha256": "…"
+    }
+  ]
+}
